@@ -420,6 +420,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "C++",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Frontend Developer"
       ]
