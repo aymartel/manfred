@@ -412,10 +412,6 @@
           "type": "technology"
         },
         {
-          "name": "HTML",
-          "type": "technology"
-        },
-        {
           "name": "JavaScript",
           "type": "technology"
         },
@@ -452,6 +448,7 @@
         "name": "SQL",
         "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "Con ver el proceso para inscribirme en el puesto de frontend, se que necesito trabajar con ustedes. Increible! me gustaria formar parta de algo asi, si para seleccionar personal se lo han currado tanto, sus proyectos seran asombrosos. Ademas que podre visitar la oficina y conocer a mis compañeros personalmente, ya que estan en Murcia como yo."
   }
 }
