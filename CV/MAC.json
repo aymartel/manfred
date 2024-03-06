@@ -404,6 +404,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "GraphQL",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
