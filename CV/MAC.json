@@ -1,0 +1,435 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Andy",
+      "surnames": "Martel Carpio",
+      "title": "Web Developer | Full Stack |",
+      "description": "Poseo una sólida formación en desarrollo web y diseño gráfico, utilizando tecnologías JavaScript y la suite de Adobe (Illustrator y Photoshop). Soy graduado en Ingeniería por la Universidad de las Ciencias Informáticas, en La Habana, Cuba y también cuento con un Máster en Informática Aplicada al Diseño de la Universidad MISIS en Moscú, Rusia.\n\nCon cuatro años de experiencia como programador fullstack, he trabajado en diversos proyectos en áreas institucionales cubanas, y aplicaciones web para diversas pequeñas empresas. He desarrollado páginas web utilizando Typescript, JavaScript, React, Node, Next.js, SQL, MongoDB, MySQL, Bootstrap, MaterialUI, HTML y CSS, entre otras. Además, he implementado el branding de pequeños negocios y estrategias de SEO para mejorar su posicionamiento en internet. También tengo experiencia como profesor de programación y ajedrez para adolescentes.\n\nAdemás, cuento con 1.5 años de experiencia como Gerente de Operaciones en 47 Technologies, una empresa rusa que vende productos en el mercado latinoamericano. Lideré un equipo dinámico en ventas, gestionando la logística de compras e implementando estrategias efectivas de ventas. Supervisé la gestión de inventario, asegurando niveles óptimos de stock, y colaboré con equipos interfuncionales para optimizar las operaciones de la cadena de suministro y reducir costos. Utilicé Jira para la gestión de proyectos y Power BI para el análisis de datos. Implementé procesos de toma de decisiones basados en datos para mejorar el rendimiento de ventas.\n\nSoy un profesional entusiasta y orientado a los detalles, experto en colaborar con equipos para impulsar el éxito del proyecto. Busco contribuir con mi experiencia técnica y habilidades creativas a un equipo de desarrollo dinámico, donde pueda seguir aprendiendo y creciendo como profesional.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/a7465e47-3f08-4b20-9102-305662802d2b_linkedin-photo-54996.linkedin-photo-54996",
+        "alt": "24/03/06/a7465e47-3f08-4b20-9102-305662802d2b_linkedin-photo-54996.linkedin-photo-54996"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJf4yS1fiBYw0RmqvEOJsSJ9Y)",
+        "country": "España",
+        "region": "Región de Murcia",
+        "municipality": "Murcia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/aymartel"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Randy Gómez",
+            "startDate": "2024-03-06",
+            "challenges": [
+              {
+                "description": "Randy Gómez"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Denis Luis Espinosa Pérez",
+            "startDate": "2024-03-06",
+            "challenges": [
+              {
+                "description": "Denis Luis Espinosa Pérez"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Dennis Eugene Quaderer",
+            "startDate": "2024-03-06",
+            "challenges": [
+              {
+                "description": "Dennis Eugene Quaderer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Manuel Rojas",
+            "startDate": "2024-03-06",
+            "challenges": [
+              {
+                "description": "Manuel Rojas"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Yosmany Siles Reina",
+            "startDate": "2024-03-06",
+            "challenges": [
+              {
+                "description": "Yosmany Siles Reina"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "47 Technologies",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/5876917f-8a1a-48dd-acc3-a509865e8c57_linkedin-photo-54996.linkedin-photo-54996",
+            "alt": "24/03/06/5876917f-8a1a-48dd-acc3-a509865e8c57_linkedin-photo-54996.linkedin-photo-54996"
+          }
+        },
+        "roles": [
+          {
+            "name": "Operations Manager",
+            "startDate": "2022-07-01",
+            "finishDate": "2024-01-31",
+            "challenges": [
+              {
+                "description": "I Led a dynamic team in product sales, managing purchasing logistics and implementing effective sales\nstrategies. Oversaw inventory management, ensuring optimal stock levels. Collaborated with cross-functional teams to optimize supply chain operations and reduce costs. Utilized Jira for project nagement and Power BI for data analysis. Implemented data-driven decision-making processes to enhance sales performance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Self-employed"
+        },
+        "roles": [
+          {
+            "name": "Graphic Designer",
+            "startDate": "2020-09-01",
+            "finishDate": "2022-07-31",
+            "challenges": [
+              {
+                "description": "During my Master's studies I worked as a freelancer graphic designer working with the Adobe suite, I carried out Branding projects creating the corporate identity of small businesses for which I also designed graphic elements (logos, banners, business cards, brochures, billboards, posters, etc. )"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Self-employed"
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2020-09-01",
+            "finishDate": "2022-07-31",
+            "challenges": [
+              {
+                "description": "I worked on several freelancer web development projects. Using the MERN knowledge stack (MongoDB, Express, React and Node.js.) more focused on the front end and using NextJs I developed landing pages for companies in the medical sector, commerce, the art of NFT and small business. I also worked on Search Engine Optimization (SEO) projects designing and developing strategies for better internet positioning."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Genius IT Tutors",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/afedfd51-a36b-4d53-8a81-9f5a2a60af97_linkedin-photo-54996.linkedin-photo-54996",
+            "alt": "24/03/06/afedfd51-a36b-4d53-8a81-9f5a2a60af97_linkedin-photo-54996.linkedin-photo-54996"
+          }
+        },
+        "roles": [
+          {
+            "name": "Teacher",
+            "startDate": "2019-09-01",
+            "finishDate": "2020-07-31",
+            "challenges": [
+              {
+                "description": "I worked as Python Teacher & Chess Instructor. I Designed and delivered Python programming courses tailored for children aged from 10 to 16 years, fostering a fun and interactive learning environment. Teaching fundamental programming concepts through games, interactive projects. I also teach chess and Organized chess workshops, cultivating strategic thinking and problem-solving skills among students."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CITMA"
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2018-07-01",
+            "finishDate": "2019-08-31",
+            "challenges": [
+              {
+                "description": "I was assigned to a team of 5 people to develop an internal web solution for managers that shows statistical results. The software shows gadgets in a dashboard with updated information of science results, environmental issues, and other information. I was involved in the front end layer, using ReactJS, Redux, HTML5, Bootstrap, Sass and GIT. This was a very interesting project that made me focus on web\nfrontend technologies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CITMA"
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2017-09-01",
+            "finishDate": "2018-07-31",
+            "challenges": [
+              {
+                "description": "I started giving support to a human resources software suite. This was developed with MongoDB, ExpressJS, React, NodeJS. My responsibilities there were solving small issues and giving data support to the users."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CITMA"
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2016-09-01",
+            "finishDate": "2017-07-31",
+            "challenges": [
+              {
+                "description": "I started at the Ministry of Science, Technology, and Environment of the Republic of Cuba (CITMA) eveloping institutional websites. The websites of the ministry were developed in WordPress with a small team of 3 people. I made some graphic designs for the webs using Illustrator and Photoshop and added to the web page created with wordpress new functionalities using HTML, Javascript and CSS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad de las Ciencias Informáticas",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/d2b0b71e-b080-4fa0-bd18-36f8b237ce36_linkedin-photo-54996.linkedin-photo-54996",
+            "alt": "24/03/06/d2b0b71e-b080-4fa0-bd18-36f8b237ce36_linkedin-photo-54996.linkedin-photo-54996"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2016-07-01",
+            "finishDate": "2016-09-30",
+            "challenges": [
+              {
+                "description": "My first professional work was after graduated from the university. This was a small project part of a video-vigilance solution developed in Visual Studio and C#. My responsibility in this project was the front end development of the client application using Windows Forms."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "RU",
+        "fullName": "Ruso",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor of Computer Science., Computer Science",
+        "startDate": "2011-09-01",
+        "institution": {
+          "name": "Universidad de las Ciencias Informáticas",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/a37c2577-1b5c-4fec-921f-f2fce6ad7242_linkedin-photo-54996.linkedin-photo-54996",
+            "alt": "24/03/06/a37c2577-1b5c-4fec-921f-f2fce6ad7242_linkedin-photo-54996.linkedin-photo-54996"
+          }
+        },
+        "finishDate": "2016-07-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's Degree in Computer Science Applied to Design, Computer Programming, Specific Applications",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "National University of Science and Technology \"MISIS\"  (Moscow Institute of Steel and Alloys)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/949ac728-6053-4f77-9578-a798917f7f32_linkedin-photo-54996.linkedin-photo-54996",
+            "alt": "24/03/06/949ac728-6053-4f77-9578-a798917f7f32_linkedin-photo-54996.linkedin-photo-54996"
+          }
+        },
+        "finishDate": "2022-07-31"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/aymartel",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "aymartel@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ]
+  }
+}
